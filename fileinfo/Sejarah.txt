@@ -8,8 +8,7 @@
         <div class="wrapcontent">
          <div class = "phmj">
             <div class="content">
-
-            <p style="text-align:center" >Sedang dalam penyusunan...</p>
+            <p style="text-align:center" >Mohon Maaf, Sejarah Sedang dalam penyusunan,...</p>
             </div>
         </div>
 
